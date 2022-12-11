@@ -1,0 +1,9 @@
+console.log('hello world')
+console.log('78-38683')
+console.log('8737+6578')
+console.log(7564**4325)
+console.log('875676*5')
+console.log(624/2863)
+console.log(6562/2)
+let x='yashmine is always not been good at the first header of th regional konasd'
+console.log('x')
